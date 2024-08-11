@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99ecd6d-ba50-4a4e-85fd-19443489c0f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Easy/Passwords_Manager/key.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/password_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/key.key" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/path_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/password.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Passwords_Manager/password.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/password_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Passwords_Manager/password_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,8 @@
     &quot;Python.alram_clock.executor&quot;: &quot;Run&quot;,
     &quot;Python.choose_your_own_adventure.executor&quot;: &quot;Run&quot;,
     &quot;Python.number_guesser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.path_finder.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -50,8 +56,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Medium\mini python project\alramclock" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Easy\Passwords_Manager" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.alram_clock">
+  <component name="RunManager" selected="Python.path_finder">
     <configuration name="WPM Typing Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_projects" />
       <option name="ENV_FILES" value="" />
@@ -96,8 +105,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="path_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/path_finder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.path_finder" />
         <item itemvalue="Python.alram_clock" />
         <item itemvalue="Python.WPM Typing Test" />
       </list>
