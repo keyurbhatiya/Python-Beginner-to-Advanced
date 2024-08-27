@@ -2,7 +2,7 @@ def exchange_rates():
     return {
         'USD': {'INR': 83.94, 'EUR': 0.91},
         'EUR': {'USD': 1.10, 'INR': 92.30},
-        'INR': {'USD': 0.012, 'EUR': 0.01}
+        'INR': {'USD': 0.012, 'EUR': 0.011}
     }
 
 def convert(currency1, currency2, amount):
