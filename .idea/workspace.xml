@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99ecd6d-ba50-4a4e-85fd-19443489c0f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Medium/backup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.WPM Typing Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.alram_clock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.choose_your_own_adventure.executor&quot;: &quot;Run&quot;,
-    &quot;Python.currency_converter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nba-scores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_guesser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.path_finder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.voice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/keyur/Desktop/Python_projects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.WPM Typing Test.executor": "Run",
+    "Python.alram_clock.executor": "Run",
+    "Python.backup.executor": "Run",
+    "Python.choose_your_own_adventure.executor": "Run",
+    "Python.currency_converter.executor": "Run",
+    "Python.nba-scores.executor": "Run",
+    "Python.number_guesser.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.path_finder.executor": "Run",
+    "Python.quiz_game.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.voice.executor": "Run",
+    "Python.youtube.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/keyur/Desktop/Python_projects",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Medium\typing_test" />
@@ -60,7 +64,7 @@
       <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Easy\Passwords_Manager" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.alram_clock">
+  <component name="RunManager" selected="Python.backup">
     <configuration name="WPM Typing Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_projects" />
       <option name="ENV_FILES" value="" />
@@ -83,8 +87,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alram_clock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_projects" />
+    <configuration name="backup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Beginner-to-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/mini python project/alramclock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/backup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,9 +153,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="youtube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Beginner-to-Advanced" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/youtube.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.alram_clock" />
+        <item itemvalue="Python.backup" />
+        <item itemvalue="Python.youtube" />
         <item itemvalue="Python.random_joke" />
         <item itemvalue="Python.path_finder" />
         <item itemvalue="Python.WPM Typing Test" />
