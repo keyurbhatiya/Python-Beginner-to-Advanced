@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a99ecd6d-ba50-4a4e-85fd-19443489c0f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/mini python project/alramclock/alram_clock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +39,19 @@
     "Python.backup.executor": "Run",
     "Python.choose_your_own_adventure.executor": "Run",
     "Python.currency_converter.executor": "Run",
+    "Python.game.executor": "Run",
     "Python.nba-scores.executor": "Run",
     "Python.number_guesser.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.path_finder.executor": "Run",
+    "Python.project_2.executor": "Run",
     "Python.quiz_game.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.voice.executor": "Run",
     "Python.youtube.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/keyur/Desktop/Python_projects",
+    "last_opened_file_path": "C:/Users/keyur/Desktop/Python_projects/Python-Beginner-to-Advanced",
     "settings.editor.selected.configurable": "preferences.updates"
   }
 }]]></component>
@@ -60,11 +61,12 @@
       <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Medium\mini python project\alramclock" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Advanced" />
       <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Medium\typing_test" />
       <recent name="C:\Users\keyur\Desktop\Python_projects\Python-Beginner-to-Advanced\Easy\Passwords_Manager" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.backup">
+  <component name="RunManager">
     <configuration name="WPM Typing Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_projects" />
       <option name="ENV_FILES" value="" />
